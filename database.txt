@@ -1,0 +1,5 @@
+chapri:king
+tejas:ram
+sunil:dashrath
+tejaswini:kaushlya
+adesh:laxman
